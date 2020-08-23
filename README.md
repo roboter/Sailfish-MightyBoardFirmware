@@ -26,6 +26,10 @@ Buid & Upload:
 scons platform=ff_creator port=/dev/ttyACM1 upload
 ```
 
+Start build and hold reset button located near USB cable
+release after "avrdude" line appears
+
+
 **1.0 Introduction**
 
 The Sailfish firmware is an enhanced firmware for Makerbot printers containing
