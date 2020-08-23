@@ -9,6 +9,9 @@
 		3.1 Advanced building
 	4.0 Credits
 
+**My Update**
+
+
 **1.0 Introduction**
 
 The Sailfish firmware is an enhanced firmware for Makerbot printers containing
@@ -111,12 +114,12 @@ in RepRap firmwares; they are not necessarily unique to Sailfish.
      Sailfish actually returns errors when printing over USB so that MakerWare
      and RepG can intelligently handle the problem.
   3. Improved SD error messages: finer detail on what failed with the SD card
-     (http://jettyfirmware.yolasite.com/v73-v43.php#sderror).  MBI's firmware
+     ~~(http://jettyfirmware.yolasite.com/v73-v43.php#sderror)~~.  MBI's firmware
      often produces a message indicating that the SD card is not formatted as
      FAT-16 when the actual error is something else entirely. This because the
      firmware lumps about five or six different error cases into one.
   4. Additional safety features:
-     http://jettyfirmware.yolasite.com/v74-v44.php#safety.
+     ~~http://jettyfirmware.yolasite.com/v74-v44.php#safety~~.
 
 **1.4 General features**
 
@@ -278,7 +281,7 @@ with many of the same characteristics as the `franken-board` platform,
 
 This software incorporates code related to acceleration from Marlin:
 
-	https://github.com/ErikZalm/Marlin
+	https://github.com/ErikZalm/Marlin (Marlin has moved The new location is https://github.com/MarlinFirmware/Marlin)
 
 This software is covered by GNU General Public License v3 and according to
 Section(7), Subsection (b), additional permissions for author  attribution
