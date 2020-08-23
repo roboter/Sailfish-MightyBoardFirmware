@@ -55,4 +55,4 @@ This is the codebase for the Makerbot Replicator firmware.
 
 The build process is documented on the wiki:
 ~~http://wiki.makerbot.com/v2-firmware~~
-Thanks to wayback mashine HTML in [build.html](build.html)
+Thanks to wayback mashine HTML in [build.md](build.md)
