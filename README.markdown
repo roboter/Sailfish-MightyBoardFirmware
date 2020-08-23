@@ -9,8 +9,21 @@
 		3.1 Advanced building
 	4.0 Credits
 
-**My Update**
+**Roboter Update**
+Ubuntu install:
+```bash
+sudo apt-get install gcc-avr avr-libc avrdude scons
+```
 
+Build:
+```bash
+scons platform=ff_creator port=/dev/ttyACM1 upload
+```
+
+Buid & Upload:
+```bash
+scons platform=ff_creator port=/dev/ttyACM1 upload
+```
 
 **1.0 Introduction**
 
